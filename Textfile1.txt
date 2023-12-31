@@ -1,2 +1,5 @@
 Created new textfile
-Createrd new repository
+Created new repository
+
+-------------------------
+Hello everyone
